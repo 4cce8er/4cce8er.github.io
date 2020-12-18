@@ -1,0 +1,45 @@
+body
+{
+	 background-color:#F0E68C;
+}
+header
+{
+	background-color:#48D1CC;
+	color:#F0E68C;
+	text-align:center;
+	padding:1px;
+	font-family:"Courier New";
+	font-size:50px
+}
+nav 
+{
+	line-height:10px;
+	background-color:#eeeeee;
+	height:;
+	width:;
+	float:up;
+	padding:5px; 
+	font-family:"Courier New";
+	text-align:center;
+	font-size:5px;
+	color:gray;
+}
+section
+{
+	width:;
+	text-align:center;
+	float:up;
+	padding:10px; 
+	font-family:"Courier New";
+	color:gray;
+	
+}
+footer
+{
+	background-color:;
+	color:gray;
+	clear:both;
+	text-align:center;
+	padding:5px; 
+	font-family:"Courier New";
+}
