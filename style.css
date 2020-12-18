@@ -2,7 +2,7 @@ body
 {
 	 background-color:#F0E68C;
 }
-header
+#header
 {
 	background-color:#48D1CC;
 	color:#F0E68C;
@@ -11,7 +11,7 @@ header
 	font-family:"Courier New";
 	font-size:50px
 }
-nav 
+#nav 
 {
 	line-height:10px;
 	background-color:#eeeeee;
@@ -24,7 +24,7 @@ nav
 	font-size:5px;
 	color:gray;
 }
-section
+#section
 {
 	width:;
 	text-align:center;
@@ -34,7 +34,7 @@ section
 	color:gray;
 	
 }
-footer
+#footer
 {
 	background-color:;
 	color:gray;
